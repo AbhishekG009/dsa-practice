@@ -2,7 +2,7 @@ package org.example.Arrays;
 
 import java.util.Arrays;
 
-public class WaveArray {
+public class WaveArray_bruteForce {
 
     public static void main(String[] args) {
         int [] arr = {1,2,3,4,5};
